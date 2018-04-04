@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "SFC-OMS-With-MDiskV0.1", "SFC-OMS-With-MDiskV0.1\SFC-OMS-With-MDiskV0.1.deployproj", "{27E22686-B72B-4396-A6DB-B4965DD233F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E22686-B72B-4396-A6DB-B4965DD233F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E22686-B72B-4396-A6DB-B4965DD233F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E22686-B72B-4396-A6DB-B4965DD233F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E22686-B72B-4396-A6DB-B4965DD233F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E9FCF47-A0EE-442F-B6B4-2838FB7B01F5}
+	EndGlobalSection
+EndGlobal
